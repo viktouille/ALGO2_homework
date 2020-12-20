@@ -1,0 +1,51 @@
+// Graph created from complex data
+strict graph {
+	A
+	B
+	C
+	C
+	C
+	C
+	C
+	A -- C [color=darkolivegreen4 penwidth=1.1]
+	A -- C [color=darkolivegreen4 penwidth=1.1]
+	A -- C [color=darkolivegreen4 penwidth=1.1]
+	A -- C [color=darkolivegreen4 penwidth=1.1]
+	A -- C [color=darkolivegreen4 penwidth=1.1]
+	B -- C [color=darkolivegreen4 penwidth=1.1]
+	B -- C [color=darkolivegreen4 penwidth=1.1]
+	B -- C [color=darkolivegreen4 penwidth=1.1]
+	B -- C [color=darkolivegreen4 penwidth=1.1]
+	B -- C [color=darkolivegreen4 penwidth=1.1]
+	C -- A [color=darkolivegreen4 penwidth=1.1]
+	C -- B [color=darkolivegreen4 penwidth=1.1]
+	C -- C [color=darkolivegreen4 penwidth=1.1]
+	C -- C [color=darkolivegreen4 penwidth=1.1]
+	C -- C [color=darkolivegreen4 penwidth=1.1]
+	C -- C [color=darkolivegreen4 penwidth=1.1]
+	C -- A [color=darkolivegreen4 penwidth=1.1]
+	C -- B [color=darkolivegreen4 penwidth=1.1]
+	C -- C [color=darkolivegreen4 penwidth=1.1]
+	C -- C [color=darkolivegreen4 penwidth=1.1]
+	C -- C [color=darkolivegreen4 penwidth=1.1]
+	C -- C [color=darkolivegreen4 penwidth=1.1]
+	C -- A [color=darkolivegreen4 penwidth=1.1]
+	C -- B [color=darkolivegreen4 penwidth=1.1]
+	C -- C [color=darkolivegreen4 penwidth=1.1]
+	C -- C [color=darkolivegreen4 penwidth=1.1]
+	C -- C [color=darkolivegreen4 penwidth=1.1]
+	C -- C [color=darkolivegreen4 penwidth=1.1]
+	C -- A [color=darkolivegreen4 penwidth=1.1]
+	C -- B [color=darkolivegreen4 penwidth=1.1]
+	C -- C [color=darkolivegreen4 penwidth=1.1]
+	C -- C [color=darkolivegreen4 penwidth=1.1]
+	C -- C [color=darkolivegreen4 penwidth=1.1]
+	C -- C [color=darkolivegreen4 penwidth=1.1]
+	C -- A [color=darkolivegreen4 penwidth=1.1]
+	C -- B [color=darkolivegreen4 penwidth=1.1]
+	C -- C [color=darkolivegreen4 penwidth=1.1]
+	C -- C [color=darkolivegreen4 penwidth=1.1]
+	C -- C [color=darkolivegreen4 penwidth=1.1]
+	C -- C [color=darkolivegreen4 penwidth=1.1]
+	fontsize=20 label="threshold 0.87"
+}

@@ -1,0 +1,347 @@
+// Graph created from complex data
+strict graph {
+	"Tie Me Up! Tie Me Down!"
+	"High Heels"
+	"Dead Zone, The"
+	Cuba
+	"Days of Heaven"
+	Octopussy
+	"Target Eagle"
+	"American Angels: Baptism of Blood, The"
+	Subway
+	"Camille Claudel"
+	"Fanny and Alexander"
+	"Tragedy of a Ridiculous Man"
+	"A Man & a Woman"
+	"A Man & a Woman: Twenty Years Later"
+	"Un Hombre y una Mujer"
+	"Official Story, The"
+	"Lindbergh Kidnapping Case, The"
+	Blackmail
+	"Donovan's Reef"
+	"Tucker: The Man & His Dream"
+	Scrooged
+	"Raiders of the Lost Ark"
+	"Running Man, The"
+	"Predator 2"
+	Colors
+	Zandalee
+	"Miles from Home"
+	"Happy Birthday to Me"
+	"Final Notice"
+	Quintet
+	"Devil's Eye, The"
+	"Wild Strawberries"
+	"Seventh Seal, The"
+	Germicide
+	Dreams
+	"Naked Night, The"
+	"Through a Glass Darkly"
+	"Cries & Whispers"
+	"Barbarian & the Geisha, The"
+	"Casino Royale"
+	"Dr. No"
+	"Elephant Walk"
+	Ten
+	"Man Who Loved Women, The"
+	Hawaii
+	"Torn Curtain"
+	"Duet for One"
+	"Sound of Music, The"
+	"Gonzo Presents Muppet Weird Stuff"
+	Tartuffe
+	"A New Life"
+	Magic
+	Tommy
+	"Big Fix, The"
+	"Alan & Naomi"
+	"Fatal Attraction"
+	"Patriot Games"
+	"Woman Next Door, The"
+	Hunting
+	Bataan
+	"Siegfried, The Nibelungenlied"
+	"Henry, Portrait of a Serial Killer"
+	"Big Blue, The"
+	"Flight of the Intruder"
+	"Nobody's Fool"
+	"After Hours"
+	"Desperately Seeking Susan"
+	"A New Leaf"
+	"Killers of Kilimanjaro"
+	"Don Juan"
+	"Babette's Feast"
+	"Vincent, Francois, Paul & the Others"
+	Thunderball
+	"Lodger (Story of the London Fog)"
+	"Appointment with Death"
+	"Murder on the Orient Express"
+	"Blood Alley"
+	"Spy Who Loved Me, The"
+	Storm
+	Bloodbath
+	"Miami Cops"
+	"Island of Dr. Moreau, The"
+	"Eighty-Four Charing Cross Road"
+	"Elephant Man, The"
+	"Dr Alien"
+	Creepshow
+	"Sammy & Rosie Get Laid"
+	"Goalie's Anxiety at the Penalty Kick, The"
+	"Mademoiselle Striptease"
+	"Women, The"
+	"That Naughty Girl"
+	"Voulez-Vous Danser Avec Moi?"
+	"A Coeur Joie, (Head Over Heels)"
+	Shalako
+	Contempt
+	"Dear Brigitte"
+	"A Very Private Affair"
+	"Ravishing Idiot, The"
+	"Bride Is Much Too Beautiful, The"
+	"Doctor at Sea"
+	"Le Repos Du Guerrier, (Warrior's Rest)"
+	"And God Created Woman"
+	"Ms. Don Juan"
+	Siesta
+	"Rich & Strange"
+	Lionheart
+	"E. T. The Extra-Terrestrial"
+	"Cool World"
+	Nadine
+	Batman
+	"Blind Date"
+	"Mother Lode"
+	"Final Analysis"
+	"Never Say Never Again"
+	"Nine & a Half Weeks"
+	Killjoy
+	"No Mercy"
+	"Marrying Man, The"
+	Misery
+	Crisis
+	"Samson & Delilah"
+	"Act of Piracy"
+	"Split Decisions"
+	"Vampire's Kiss"
+	"Nightmare at Noon"
+	"Presumed Innocent"
+	"Reap the Wild Wind"
+	"Pocket Money"
+	"Mary White"
+	"Catch a Rising Star, Tenth Anniversary"
+	"Guilty by Suspicion"
+	"Secret Beyond the Door"
+	"Scarlet Street"
+	"Daffy Duck's Quackbusters"
+	"Rowlf's Rhapsodies with the Muppets"
+	Gandhi
+	"Wind & the Lion, The"
+	"Carnal Knowledge"
+	"Getting Straight"
+	"Scarlet Letter, The"
+	"Count of Old Town, The"
+	"Autumn Sonata"
+	Gaslight
+	Indiscreet
+	"Walpurgis Night"
+	"Joan of Arc"
+	"A Woman Called Golda"
+	"A Walk in the Spring Rain"
+	"Under Capricorn"
+	"Tie Me Up! Tie Me Down!" -- "High Heels" [color=darkolivegreen4 penwidth=1.1]
+	"High Heels" -- "Tie Me Up! Tie Me Down!" [color=darkolivegreen4 penwidth=1.1]
+	Cuba -- "Days of Heaven" [color=darkolivegreen4 penwidth=1.1]
+	Cuba -- Thunderball [color=darkolivegreen4 penwidth=1.1]
+	Cuba -- Shalako [color=darkolivegreen4 penwidth=1.1]
+	Cuba -- "Never Say Never Again" [color=darkolivegreen4 penwidth=1.1]
+	Cuba -- "Wind & the Lion, The" [color=darkolivegreen4 penwidth=1.1]
+	"Days of Heaven" -- Cuba [color=darkolivegreen4 penwidth=1.1]
+	"Days of Heaven" -- "No Mercy" [color=darkolivegreen4 penwidth=1.1]
+	Subway -- "Big Blue, The" [color=darkolivegreen4 penwidth=1.1]
+	"A Man & a Woman" -- "A Man & a Woman":" Twenty Years Later" [color=darkolivegreen4 penwidth=1.1]
+	"A Man & a Woman":" Twenty Years Later" -- "A Man & a Woman" [color=darkolivegreen4 penwidth=1.1]
+	"Donovan's Reef" -- "Barbarian & the Geisha, The" [color=darkolivegreen4 penwidth=1.1]
+	Scrooged -- "Raiders of the Lost Ark" [color=darkolivegreen4 penwidth=1.1]
+	"Raiders of the Lost Ark" -- Scrooged [color=darkolivegreen4 penwidth=1.1]
+	"Raiders of the Lost Ark" -- "E. T. The Extra-Terrestrial" [color=darkolivegreen4 penwidth=1.1]
+	"Running Man, The" -- Colors [color=darkolivegreen4 penwidth=1.1]
+	Colors -- "Running Man, The" [color=darkolivegreen4 penwidth=1.1]
+	"Devil's Eye, The" -- "Wild Strawberries" [color=darkolivegreen4 penwidth=1.1]
+	"Devil's Eye, The" -- Dreams [color=darkolivegreen4 penwidth=1.1]
+	"Devil's Eye, The" -- "Cries & Whispers" [color=darkolivegreen4 penwidth=1.1]
+	"Wild Strawberries" -- "Devil's Eye, The" [color=darkolivegreen4 penwidth=1.1]
+	"Wild Strawberries" -- "Seventh Seal, The" [color=darkolivegreen4 penwidth=1.1]
+	"Wild Strawberries" -- "Naked Night, The" [color=darkolivegreen4 penwidth=1.1]
+	"Seventh Seal, The" -- "Wild Strawberries" [color=darkolivegreen4 penwidth=1.1]
+	"Seventh Seal, The" -- "Through a Glass Darkly" [color=darkolivegreen4 penwidth=1.1]
+	"Seventh Seal, The" -- Crisis [color=darkolivegreen4 penwidth=1.1]
+	Dreams -- "Devil's Eye, The" [color=darkolivegreen4 penwidth=1.1]
+	Dreams -- "Naked Night, The" [color=darkolivegreen4 penwidth=1.1]
+	Dreams -- "Cries & Whispers" [color=darkolivegreen4 penwidth=1.1]
+	"Naked Night, The" -- "Wild Strawberries" [color=darkolivegreen4 penwidth=1.1]
+	"Naked Night, The" -- Dreams [color=darkolivegreen4 penwidth=1.1]
+	"Naked Night, The" -- "Through a Glass Darkly" [color=darkolivegreen4 penwidth=1.1]
+	"Through a Glass Darkly" -- "Seventh Seal, The" [color=darkolivegreen4 penwidth=1.1]
+	"Through a Glass Darkly" -- "Naked Night, The" [color=darkolivegreen4 penwidth=1.1]
+	"Cries & Whispers" -- "Devil's Eye, The" [color=darkolivegreen4 penwidth=1.1]
+	"Cries & Whispers" -- Dreams [color=darkolivegreen4 penwidth=1.1]
+	"Barbarian & the Geisha, The" -- "Donovan's Reef" [color=darkolivegreen4 penwidth=1.1]
+	"Casino Royale" -- "Dr. No" [color=darkolivegreen4 penwidth=1.1]
+	"Dr. No" -- "Casino Royale" [color=darkolivegreen4 penwidth=1.1]
+	"Dr. No" -- Shalako [color=darkolivegreen4 penwidth=1.1]
+	"Dr. No" -- "Wind & the Lion, The" [color=darkolivegreen4 penwidth=1.1]
+	Ten -- "Man Who Loved Women, The" [color=darkolivegreen4 penwidth=1.1]
+	"Man Who Loved Women, The" -- Ten [color=darkolivegreen4 penwidth=1.1]
+	"Man Who Loved Women, The" -- "Duet for One" [color=darkolivegreen4 penwidth=1.1]
+	"Duet for One" -- "Man Who Loved Women, The" [color=darkolivegreen4 penwidth=1.1]
+	"Duet for One" -- "Gonzo Presents Muppet Weird Stuff" [color=darkolivegreen4 penwidth=1.1]
+	"Gonzo Presents Muppet Weird Stuff" -- "Duet for One" [color=darkolivegreen4 penwidth=1.1]
+	Tartuffe -- "Woman Next Door, The" [color=darkolivegreen4 penwidth=1.1]
+	"Woman Next Door, The" -- Tartuffe [color=darkolivegreen4 penwidth=1.1]
+	"Big Blue, The" -- Subway [color=darkolivegreen4 penwidth=1.1]
+	"Flight of the Intruder" -- "Nobody's Fool" [color=darkolivegreen4 penwidth=1.1]
+	"Flight of the Intruder" -- "Desperately Seeking Susan" [color=darkolivegreen4 penwidth=1.1]
+	"Nobody's Fool" -- "Flight of the Intruder" [color=darkolivegreen4 penwidth=1.1]
+	"Nobody's Fool" -- "Desperately Seeking Susan" [color=darkolivegreen4 penwidth=1.1]
+	"Desperately Seeking Susan" -- "Flight of the Intruder" [color=darkolivegreen4 penwidth=1.1]
+	"Desperately Seeking Susan" -- "Nobody's Fool" [color=darkolivegreen4 penwidth=1.1]
+	Thunderball -- Cuba [color=darkolivegreen4 penwidth=1.1]
+	Thunderball -- "Never Say Never Again" [color=darkolivegreen4 penwidth=1.1]
+	"Eighty-Four Charing Cross Road" -- "Elephant Man, The" [color=darkolivegreen4 penwidth=1.1]
+	"Elephant Man, The" -- "Eighty-Four Charing Cross Road" [color=darkolivegreen4 penwidth=1.1]
+	"Goalie's Anxiety at the Penalty Kick, The" -- "Scarlet Letter, The" [color=darkolivegreen4 penwidth=1.1]
+	"Mademoiselle Striptease" -- "That Naughty Girl" [color=darkolivegreen4 penwidth=1.1]
+	"Mademoiselle Striptease" -- "Voulez-Vous Danser Avec Moi?" [color=darkolivegreen4 penwidth=1.1]
+	"Mademoiselle Striptease" -- "A Very Private Affair" [color=darkolivegreen4 penwidth=1.1]
+	"Mademoiselle Striptease" -- "Ravishing Idiot, The" [color=darkolivegreen4 penwidth=1.1]
+	"Mademoiselle Striptease" -- "Le Repos Du Guerrier, (Warrior's Rest)" [color=darkolivegreen4 penwidth=1.1]
+	"Mademoiselle Striptease" -- "And God Created Woman" [color=darkolivegreen4 penwidth=1.1]
+	"Women, The" -- "A Coeur Joie, (Head Over Heels)" [color=darkolivegreen4 penwidth=1.1]
+	"Women, The" -- Contempt [color=darkolivegreen4 penwidth=1.1]
+	"Women, The" -- "Dear Brigitte" [color=darkolivegreen4 penwidth=1.1]
+	"Women, The" -- "Bride Is Much Too Beautiful, The" [color=darkolivegreen4 penwidth=1.1]
+	"That Naughty Girl" -- "Mademoiselle Striptease" [color=darkolivegreen4 penwidth=1.1]
+	"That Naughty Girl" -- "Voulez-Vous Danser Avec Moi?" [color=darkolivegreen4 penwidth=1.1]
+	"That Naughty Girl" -- "A Very Private Affair" [color=darkolivegreen4 penwidth=1.1]
+	"That Naughty Girl" -- "Ravishing Idiot, The" [color=darkolivegreen4 penwidth=1.1]
+	"That Naughty Girl" -- "And God Created Woman" [color=darkolivegreen4 penwidth=1.1]
+	"Voulez-Vous Danser Avec Moi?" -- "Mademoiselle Striptease" [color=darkolivegreen4 penwidth=1.1]
+	"Voulez-Vous Danser Avec Moi?" -- "That Naughty Girl" [color=darkolivegreen4 penwidth=1.1]
+	"Voulez-Vous Danser Avec Moi?" -- "A Very Private Affair" [color=darkolivegreen4 penwidth=1.1]
+	"Voulez-Vous Danser Avec Moi?" -- "Le Repos Du Guerrier, (Warrior's Rest)" [color=darkolivegreen4 penwidth=1.1]
+	"Voulez-Vous Danser Avec Moi?" -- "And God Created Woman" [color=darkolivegreen4 penwidth=1.1]
+	"A Coeur Joie, (Head Over Heels)" -- "Women, The" [color=darkolivegreen4 penwidth=1.1]
+	"A Coeur Joie, (Head Over Heels)" -- "Dear Brigitte" [color=darkolivegreen4 penwidth=1.1]
+	"A Coeur Joie, (Head Over Heels)" -- "Ms. Don Juan" [color=darkolivegreen4 penwidth=1.1]
+	Shalako -- Cuba [color=darkolivegreen4 penwidth=1.1]
+	Shalako -- "Dr. No" [color=darkolivegreen4 penwidth=1.1]
+	Shalako -- "Le Repos Du Guerrier, (Warrior's Rest)" [color=darkolivegreen4 penwidth=1.1]
+	Shalako -- "Wind & the Lion, The" [color=darkolivegreen4 penwidth=1.1]
+	Contempt -- "Women, The" [color=darkolivegreen4 penwidth=1.1]
+	Contempt -- "Dear Brigitte" [color=darkolivegreen4 penwidth=1.1]
+	Contempt -- "Bride Is Much Too Beautiful, The" [color=darkolivegreen4 penwidth=1.1]
+	Contempt -- "Doctor at Sea" [color=darkolivegreen4 penwidth=1.1]
+	"Dear Brigitte" -- "Women, The" [color=darkolivegreen4 penwidth=1.1]
+	"Dear Brigitte" -- "A Coeur Joie, (Head Over Heels)" [color=darkolivegreen4 penwidth=1.1]
+	"Dear Brigitte" -- Contempt [color=darkolivegreen4 penwidth=1.1]
+	"Dear Brigitte" -- "Bride Is Much Too Beautiful, The" [color=darkolivegreen4 penwidth=1.1]
+	"Dear Brigitte" -- "Doctor at Sea" [color=darkolivegreen4 penwidth=1.1]
+	"A Very Private Affair" -- "Mademoiselle Striptease" [color=darkolivegreen4 penwidth=1.1]
+	"A Very Private Affair" -- "That Naughty Girl" [color=darkolivegreen4 penwidth=1.1]
+	"A Very Private Affair" -- "Voulez-Vous Danser Avec Moi?" [color=darkolivegreen4 penwidth=1.1]
+	"A Very Private Affair" -- "Ravishing Idiot, The" [color=darkolivegreen4 penwidth=1.1]
+	"A Very Private Affair" -- "And God Created Woman" [color=darkolivegreen4 penwidth=1.1]
+	"A Very Private Affair" -- "Ms. Don Juan" [color=darkolivegreen4 penwidth=1.1]
+	"Ravishing Idiot, The" -- "Mademoiselle Striptease" [color=darkolivegreen4 penwidth=1.1]
+	"Ravishing Idiot, The" -- "That Naughty Girl" [color=darkolivegreen4 penwidth=1.1]
+	"Ravishing Idiot, The" -- "A Very Private Affair" [color=darkolivegreen4 penwidth=1.1]
+	"Ravishing Idiot, The" -- "And God Created Woman" [color=darkolivegreen4 penwidth=1.1]
+	"Ravishing Idiot, The" -- "Ms. Don Juan" [color=darkolivegreen4 penwidth=1.1]
+	"Bride Is Much Too Beautiful, The" -- "Women, The" [color=darkolivegreen4 penwidth=1.1]
+	"Bride Is Much Too Beautiful, The" -- Contempt [color=darkolivegreen4 penwidth=1.1]
+	"Bride Is Much Too Beautiful, The" -- "Dear Brigitte" [color=darkolivegreen4 penwidth=1.1]
+	"Bride Is Much Too Beautiful, The" -- "Doctor at Sea" [color=darkolivegreen4 penwidth=1.1]
+	"Doctor at Sea" -- Contempt [color=darkolivegreen4 penwidth=1.1]
+	"Doctor at Sea" -- "Dear Brigitte" [color=darkolivegreen4 penwidth=1.1]
+	"Doctor at Sea" -- "Bride Is Much Too Beautiful, The" [color=darkolivegreen4 penwidth=1.1]
+	"Le Repos Du Guerrier, (Warrior's Rest)" -- "Mademoiselle Striptease" [color=darkolivegreen4 penwidth=1.1]
+	"Le Repos Du Guerrier, (Warrior's Rest)" -- "Voulez-Vous Danser Avec Moi?" [color=darkolivegreen4 penwidth=1.1]
+	"Le Repos Du Guerrier, (Warrior's Rest)" -- Shalako [color=darkolivegreen4 penwidth=1.1]
+	"Le Repos Du Guerrier, (Warrior's Rest)" -- "And God Created Woman" [color=darkolivegreen4 penwidth=1.1]
+	"And God Created Woman" -- "Mademoiselle Striptease" [color=darkolivegreen4 penwidth=1.1]
+	"And God Created Woman" -- "That Naughty Girl" [color=darkolivegreen4 penwidth=1.1]
+	"And God Created Woman" -- "Voulez-Vous Danser Avec Moi?" [color=darkolivegreen4 penwidth=1.1]
+	"And God Created Woman" -- "A Very Private Affair" [color=darkolivegreen4 penwidth=1.1]
+	"And God Created Woman" -- "Ravishing Idiot, The" [color=darkolivegreen4 penwidth=1.1]
+	"And God Created Woman" -- "Le Repos Du Guerrier, (Warrior's Rest)" [color=darkolivegreen4 penwidth=1.1]
+	"And God Created Woman" -- "Ms. Don Juan" [color=darkolivegreen4 penwidth=1.1]
+	"Ms. Don Juan" -- "A Coeur Joie, (Head Over Heels)" [color=darkolivegreen4 penwidth=1.1]
+	"Ms. Don Juan" -- "A Very Private Affair" [color=darkolivegreen4 penwidth=1.1]
+	"Ms. Don Juan" -- "Ravishing Idiot, The" [color=darkolivegreen4 penwidth=1.1]
+	"Ms. Don Juan" -- "And God Created Woman" [color=darkolivegreen4 penwidth=1.1]
+	Siesta -- "Cool World" [color=darkolivegreen4 penwidth=1.1]
+	"E. T. The Extra-Terrestrial" -- "Raiders of the Lost Ark" [color=darkolivegreen4 penwidth=1.1]
+	"Cool World" -- Siesta [color=darkolivegreen4 penwidth=1.1]
+	"Cool World" -- Nadine [color=darkolivegreen4 penwidth=1.1]
+	"Cool World" -- "Mother Lode" [color=darkolivegreen4 penwidth=1.1]
+	"Cool World" -- "Final Analysis" [color=darkolivegreen4 penwidth=1.1]
+	Nadine -- "Cool World" [color=darkolivegreen4 penwidth=1.1]
+	Nadine -- "Mother Lode" [color=darkolivegreen4 penwidth=1.1]
+	Nadine -- "Final Analysis" [color=darkolivegreen4 penwidth=1.1]
+	Batman -- "Blind Date" [color=darkolivegreen4 penwidth=1.1]
+	Batman -- "Never Say Never Again" [color=darkolivegreen4 penwidth=1.1]
+	Batman -- "Nine & a Half Weeks" [color=darkolivegreen4 penwidth=1.1]
+	Batman -- "No Mercy" [color=darkolivegreen4 penwidth=1.1]
+	"Blind Date" -- Batman [color=darkolivegreen4 penwidth=1.1]
+	"Blind Date" -- "Never Say Never Again" [color=darkolivegreen4 penwidth=1.1]
+	"Blind Date" -- "Nine & a Half Weeks" [color=darkolivegreen4 penwidth=1.1]
+	"Blind Date" -- "No Mercy" [color=darkolivegreen4 penwidth=1.1]
+	"Mother Lode" -- "Cool World" [color=darkolivegreen4 penwidth=1.1]
+	"Mother Lode" -- Nadine [color=darkolivegreen4 penwidth=1.1]
+	"Mother Lode" -- "Final Analysis" [color=darkolivegreen4 penwidth=1.1]
+	"Final Analysis" -- "Cool World" [color=darkolivegreen4 penwidth=1.1]
+	"Final Analysis" -- Nadine [color=darkolivegreen4 penwidth=1.1]
+	"Final Analysis" -- "Mother Lode" [color=darkolivegreen4 penwidth=1.1]
+	"Never Say Never Again" -- Cuba [color=darkolivegreen4 penwidth=1.1]
+	"Never Say Never Again" -- Thunderball [color=darkolivegreen4 penwidth=1.1]
+	"Never Say Never Again" -- Batman [color=darkolivegreen4 penwidth=1.1]
+	"Never Say Never Again" -- "Blind Date" [color=darkolivegreen4 penwidth=1.1]
+	"Never Say Never Again" -- "Nine & a Half Weeks" [color=darkolivegreen4 penwidth=1.1]
+	"Never Say Never Again" -- "No Mercy" [color=darkolivegreen4 penwidth=1.1]
+	"Never Say Never Again" -- "Wind & the Lion, The" [color=darkolivegreen4 penwidth=1.1]
+	"Nine & a Half Weeks" -- Batman [color=darkolivegreen4 penwidth=1.1]
+	"Nine & a Half Weeks" -- "Blind Date" [color=darkolivegreen4 penwidth=1.1]
+	"Nine & a Half Weeks" -- "Never Say Never Again" [color=darkolivegreen4 penwidth=1.1]
+	"Nine & a Half Weeks" -- "No Mercy" [color=darkolivegreen4 penwidth=1.1]
+	Killjoy -- "Marrying Man, The" [color=darkolivegreen4 penwidth=1.1]
+	"No Mercy" -- "Days of Heaven" [color=darkolivegreen4 penwidth=1.1]
+	"No Mercy" -- Batman [color=darkolivegreen4 penwidth=1.1]
+	"No Mercy" -- "Blind Date" [color=darkolivegreen4 penwidth=1.1]
+	"No Mercy" -- "Never Say Never Again" [color=darkolivegreen4 penwidth=1.1]
+	"No Mercy" -- "Nine & a Half Weeks" [color=darkolivegreen4 penwidth=1.1]
+	"Marrying Man, The" -- Killjoy [color=darkolivegreen4 penwidth=1.1]
+	Crisis -- "Seventh Seal, The" [color=darkolivegreen4 penwidth=1.1]
+	"Split Decisions" -- "Vampire's Kiss" [color=darkolivegreen4 penwidth=1.1]
+	"Vampire's Kiss" -- "Split Decisions" [color=darkolivegreen4 penwidth=1.1]
+	Gandhi -- "Wind & the Lion, The" [color=darkolivegreen4 penwidth=1.1]
+	Gandhi -- "Carnal Knowledge" [color=darkolivegreen4 penwidth=1.1]
+	"Wind & the Lion, The" -- Cuba [color=darkolivegreen4 penwidth=1.1]
+	"Wind & the Lion, The" -- "Dr. No" [color=darkolivegreen4 penwidth=1.1]
+	"Wind & the Lion, The" -- Shalako [color=darkolivegreen4 penwidth=1.1]
+	"Wind & the Lion, The" -- "Never Say Never Again" [color=darkolivegreen4 penwidth=1.1]
+	"Wind & the Lion, The" -- Gandhi [color=darkolivegreen4 penwidth=1.1]
+	"Wind & the Lion, The" -- "Carnal Knowledge" [color=darkolivegreen4 penwidth=1.1]
+	"Carnal Knowledge" -- Gandhi [color=darkolivegreen4 penwidth=1.1]
+	"Carnal Knowledge" -- "Wind & the Lion, The" [color=darkolivegreen4 penwidth=1.1]
+	"Scarlet Letter, The" -- "Goalie's Anxiety at the Penalty Kick, The" [color=darkolivegreen4 penwidth=1.1]
+	Gaslight -- "Walpurgis Night" [color=darkolivegreen4 penwidth=1.1]
+	Gaslight -- "Joan of Arc" [color=darkolivegreen4 penwidth=1.1]
+	Indiscreet -- "Joan of Arc" [color=darkolivegreen4 penwidth=1.1]
+	Indiscreet -- "A Walk in the Spring Rain" [color=darkolivegreen4 penwidth=1.1]
+	"Walpurgis Night" -- Gaslight [color=darkolivegreen4 penwidth=1.1]
+	"Joan of Arc" -- Gaslight [color=darkolivegreen4 penwidth=1.1]
+	"Joan of Arc" -- Indiscreet [color=darkolivegreen4 penwidth=1.1]
+	"A Walk in the Spring Rain" -- Indiscreet [color=darkolivegreen4 penwidth=1.1]
+	fontsize=20 label="threshold 0.34"
+}
